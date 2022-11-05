@@ -6,4 +6,8 @@
   <br>
 </h1>
 
-<h1 style="text-align: center;">Optimize Minecraft Server</h1>
+<h3>
+Minecraft Server OptimizeImprove the performance of your Minecraft Server system of
+Paper Purpur Airplane Tuinity
+Yatopia Pufferfish Purplane ETC,
+</h3>
