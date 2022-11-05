@@ -6,11 +6,6 @@
   <br>
 </h1>
 
-**Minecraft Server OptimizeImprove **
-**The Performance of your Minecraft Server System of**
-**Paper Purpur Airplane Tuinity**
-**Yatopia Pufferfish Purplane ETC,**
-<h1>
 Contact
 <a href="https://discord.com/invite/hGZ3HxCJER" alt="Discord"></a>
 </h1>
