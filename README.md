@@ -12,5 +12,5 @@
 **Yatopia Pufferfish Purplane ETC,**
 <h1>
 Contact
-<a href="https://discord.com/invite/hGZ3HxCJER"> <alt="Discord"></a>
+<a href="https://discord.com/invite/hGZ3HxCJER" alt="Discord"></a>
 </h1>
