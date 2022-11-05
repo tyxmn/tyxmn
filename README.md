@@ -6,8 +6,4 @@
   <br>
 </h1>
 
-<h2 align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ePBjUMEeqBw
-" target="_blank"><img src="http://img.youtube.com/vi/ePBjUMEeqBw/0.jpg" 
-alt="ねむるまち" /></a>
-</h2>
+<h1 style="text-align: center;">Optimize Minecraft Server</h1>
