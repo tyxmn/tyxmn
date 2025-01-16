@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tyxm</h1>
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=tyxm&](https://avatars.githubusercontent.com/u/43444421?v=4)" alt="tyxm" /></p>
+<p><img align="center" src="https://avatars.githubusercontent.com/u/43444421?v=4" alt="tyxm" /></p>
 <h3 align="center">Nothing in this world is impossible; it all depends on whether or not you choose to do it</h3>
 
 - 🔭 I’m currently working on [Revolution Project](https://revo.in.th/)
