@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/43444421" alt="Thanapol Profile" width="150" style="border-radius: 50%;" />
 
-# 👋 Hi, I'm Thanapol (tyxmn)
+# 👋 Hi, I'm tyxmn
 
 ### DEVELOPER • DESIGNER • CREATOR
 
