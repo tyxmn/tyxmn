@@ -173,7 +173,7 @@ Feel free to reach out for collaborations, consulting, or just a chat about tech
 
 ---
 
-**© 2025 Thanapol (tyxmn) • CEO at Revolution (REVO)**
+**© 2026 (tyxmn) • CEO at Revolution (REVO)**
 
 *Enhancing experiences with maximum efficiency*
 
