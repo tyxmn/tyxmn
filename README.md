@@ -16,10 +16,6 @@ I build <b>Figura Cloud & Minecraft solutions</b> at <a href="https://revo.in.th
 </p>
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=tyxmn&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&icon_color=FF6B35&text_color=A1A1AA" alt="stats" />
-</p>
-
-<p align="center">
   <a href="https://revo.in.th">Website</a> •
   <a href="https://www.facebook.com/revolution.proj">Facebook</a> •
   <a href="https://www.youtube.com/@Revolution_Project">YouTube</a>
