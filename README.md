@@ -12,7 +12,7 @@ I build <b>Figura Cloud & Minecraft solutions</b> at <a href="https://revo.in.th
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,java,nodejs,react,docker,linux&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,ts,javascript,java,nodejs,react,docker,linux&theme=dark" alt="stack" />
 </p>
 
 <p align="center">
